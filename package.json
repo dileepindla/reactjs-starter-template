@@ -1,0 +1,26 @@
+{
+  "name": "reactjs-starter-template-master",
+  "version": "1.0.0",
+  "description": "React Js Starter Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dileepindla/reactjs-starter-template.git"
+  },
+  "keywords": [
+    "React",
+    "Js",
+    "React.js",
+    "starter",
+    "template"
+  ],
+  "author": "dileepindla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dileepindla/reactjs-starter-template/issues"
+  },
+  "homepage": "https://github.com/dileepindla/reactjs-starter-template#readme"
+}
