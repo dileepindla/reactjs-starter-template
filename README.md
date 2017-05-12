@@ -14,3 +14,9 @@ Steps to install & run:
 Read full tutorial here:
 
 Tutorial : https://watchdown.com/react-js-environment-setup-using-webpack/
+
+React Tutorials:
+
+https://watchdown.com/react-js-tutorial-beginners-introduction/
+
+https://watchdown.com/react-js-tutorial-react-lifecycle-state-props/
